@@ -1,0 +1,30 @@
+.App {
+  margin: 0;
+  padding: 0;
+} 
+
+.App-logo {
+  height: 40vmin;
+}
+
+.head {
+  word-spacing: 1px;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  font-size: 17px;
+  word-spacing: 1px;
+  color: rgb(9, 95, 23);
+}
+
+.container {
+  margin: 5%;
+  text-align: center;
+}
+
+.show-table {
+  width: 94%;
+  margin-left: 3%;
+  margin-right: 3%;
+  max-height: 300px;
+  overflow: scroll;
+}
