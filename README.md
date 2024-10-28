@@ -10,4 +10,4 @@
 
 ## Description
 
-Displayv the Interest Rate Swap outcomes for the stETH, STKR, and STYETYH Demo
+Display the Interest Rate Swap outcomes for the stETH, STKR, and STYETYH Demo
