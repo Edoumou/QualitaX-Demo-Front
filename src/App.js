@@ -85,8 +85,6 @@ function App() {
 
     setPayerSTYETHAmount(payerSUM);
     setReceiverSTYETHAmount(receiverSUM);
-
-    console.log('Lido Tot Amount:', receiverSUM / 1e18);
   });
 
   useEffect(() => {
