@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QualitaX-Demo-Front/static/css/main.b73070c9.chunk.css",
+    "main.js": "/QualitaX-Demo-Front/static/js/main.cc6d817e.chunk.js",
+    "main.js.map": "/QualitaX-Demo-Front/static/js/main.cc6d817e.chunk.js.map",
+    "runtime-main.js": "/QualitaX-Demo-Front/static/js/runtime-main.fe4538a4.js",
+    "runtime-main.js.map": "/QualitaX-Demo-Front/static/js/runtime-main.fe4538a4.js.map",
+    "static/css/2.433fb596.chunk.css": "/QualitaX-Demo-Front/static/css/2.433fb596.chunk.css",
+    "static/js/2.9341997a.chunk.js": "/QualitaX-Demo-Front/static/js/2.9341997a.chunk.js",
+    "static/js/2.9341997a.chunk.js.map": "/QualitaX-Demo-Front/static/js/2.9341997a.chunk.js.map",
+    "index.html": "/QualitaX-Demo-Front/index.html",
+    "precache-manifest.ff18c0977ea438f16705533c1558fef9.js": "/QualitaX-Demo-Front/precache-manifest.ff18c0977ea438f16705533c1558fef9.js",
+    "service-worker.js": "/QualitaX-Demo-Front/service-worker.js",
+    "static/css/2.433fb596.chunk.css.map": "/QualitaX-Demo-Front/static/css/2.433fb596.chunk.css.map",
+    "static/css/main.b73070c9.chunk.css.map": "/QualitaX-Demo-Front/static/css/main.b73070c9.chunk.css.map",
+    "static/media/semantic.min.css": "/QualitaX-Demo-Front/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe4538a4.js",
+    "static/css/2.433fb596.chunk.css",
+    "static/js/2.9341997a.chunk.js",
+    "static/css/main.b73070c9.chunk.css",
+    "static/js/main.cc6d817e.chunk.js"
+  ]
+}
